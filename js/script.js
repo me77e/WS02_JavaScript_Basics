@@ -6,8 +6,8 @@ console.log("Hello, World!");
 
 // Store text values in variables
 
-const userName = "Juho";
-const favoriteAnimal = "Blue Elephant";
+const userName = "Mette";
+const favoriteAnimal = "Kultainennoutaja";
 
 
 // Print the variables to the console
@@ -15,7 +15,7 @@ console.log("My name is " + userName);
 console.log("My favorite animal is " + favoriteAnimal);
 // STEP 3: User interaction
 // Display a pop-up message
-alert("tervertetuloa hieoulle nettisivylleni!");
+alert("tervetuloa hienolle nettisivulleni!");
 
 // Ask the user for their name
 
