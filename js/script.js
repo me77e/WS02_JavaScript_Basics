@@ -15,7 +15,7 @@ console.log("My name is " + userName);
 console.log("My favorite animal is " + favoriteAnimal);
 // STEP 3: User interaction
 // Display a pop-up message
-alert("tervetuloa hienolle nettisivulleni!");
+alert("tervetuloa mahtaville nettisivulleni!");
 
 // Ask the user for their name
 
