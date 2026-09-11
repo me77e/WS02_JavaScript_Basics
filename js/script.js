@@ -24,7 +24,7 @@ const visitorName = prompt("Mikä on nimesi?");
 // Print the user's answer
 console.log(visitorName);
 
-console.log("Terve " + visitorName + "! Tervetuloa javasciptimn psariin!");
+console.log("Terve " + visitorName + "! Tervetuloa javascriptin pariin!");
 // Ask the user for their favorite animal
 
 const visitorFavoriteAnimal = prompt("Mikä on lempieläimesi?");
